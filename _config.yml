@@ -32,6 +32,8 @@ social:
     url: https://twitter.com/CocoaHeadsBr
   - title: instagram
     url: https://www.instagram.com/cocoaheadsbr/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCgxgHAknB-xGCRGU6tjQI9w
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 email: hello@solidtheme.com
@@ -42,59 +44,50 @@ tel: +34 8493-4893
 
 # Members information. Shown on About page.
 members:
-  - name: Mark Webber
-    position: CEO
+  - name: Salmo Junior
+    position: Chapter Leader
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+    img: salmo.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:junior.salmo@gmail.com
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
+        url: https://twitter.com/SalmoJr
+  - name: Marcilio Junior
+    position: Co-Organizer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
+    img: marcilio.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:marciliojrs@gmail.com
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
+        url: https://twitter.com/marciliojrs
+  - name: Gabriel Oliva
+    position: Co-Organizer
     text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
+    img: gabriel.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:gfpoliva@gmail.com
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/gabrieloliva_
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+  - name: CI&T
+    img: ciandt.jpeg
+  - name: Novatec
+    img: novatec.jpeg
+  - name: Avenue Code
+    img: avenuecode.jpeg
+  - name: ThoughtWorks
+    img: tw.jpeg
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "CocoaHeads é um grupo formado por desenvolvedores (profissionais e iniciantes), que se organizam para reunir pessoas com a mesma paixão: Programação para os iDevices da Apple (OSX e iOS)."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: ""
+    author:
+    position:
